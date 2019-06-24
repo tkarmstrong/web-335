@@ -1,3 +1,10 @@
+# ============================================
+#  Title:  calculator
+#  Author: Tyler Armstrong
+#  Date:   23 June 2019
+#  Description: Python functions.
+# ===========================================
+
 def add(a, b):
   return a + b
 
