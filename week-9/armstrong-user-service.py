@@ -2,7 +2,7 @@
 #  Title:  User Service
 #  Author: Tyler Armstrong
 #  Date:   30 June 2019
-#  Description: Updating and deleting documents using Python.
+#  Description: Querying and creating documents using Python.
 # ===========================================
 
 from pymongo import MongoClient
